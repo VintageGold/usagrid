@@ -10,6 +10,8 @@ Resources
 
 PJM Maps - https://www.pjm.com/library/maps.aspx
 
+SWPP - Market Clearing - https://portal.spp.org/pages/market-clearing-rtbm
+
 Electricity Rates - https://findenergy.com/md/
 
 Weather - https://weatherspark.com/h/y/15764/2023/Historical-Weather-during-2023-in-Lexington-Kentucky-United-States
