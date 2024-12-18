@@ -14,4 +14,6 @@ Electricity Rates - https://findenergy.com/md/
 
 Weather - https://weatherspark.com/h/y/15764/2023/Historical-Weather-during-2023-in-Lexington-Kentucky-United-States
 
+Wind Turbine - https://energy.usgs.gov/uswtdb/data/
+
 
